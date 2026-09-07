@@ -1,10 +1,6 @@
 # Hi there, I'm Jemson Sayre 👋
 ### Aspiring Full-Stack Web Developer | Front-End Focused 🚀
 
-<p align="left">
-  <img src="https://komarev.com" alt="jemsay072" />
-</p>
-
 I am a web developer heavily focused on creating beautiful, responsive, and highly interactive **Front-End** experiences using **React** and **Tailwind CSS**. I am actively bridging the gap to become a **Full-Stack Developer** by strengthening my back-end knowledge with **Laravel** and leveling up my ecosystem with modern technologies.
 
 ---
