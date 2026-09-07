@@ -28,23 +28,23 @@ I am a web developer heavily focused on creating beautiful, responsive, and high
 * ![Sass](https://shields.io)
 
 #### ⏳ Learning & Upgrading (Next-Gen Stack)
-![Next.js](https://shields.io)
-![TypeScript](https://shields.io)
+* ![Next.js](https://shields.io)
+* ![TypeScript](https://shields.io)
 
 #### ⚙️ Backend & Database (Full-Stack Foundation)
-![PHP](https://shields.io)
-![Laravel](https://shields.io)
-![MySQL](https://shields.io)
+* ![PHP](https://shields.io)
+* ![Laravel](https://shields.io)
+* ![MySQL](https://shields.io)
 
 #### 🎨 Design & UI/UX
-![Figma](https://shields.io)
-![Adobe Illustrator](https://shields.io)
+* ![Figma](https://shields.io)
+* ![Adobe Illustrator](https://shields.io)
 
 ---
 
 ### 📊 GitHub Stats
-![Jemson's GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+* ![Jemson's GitHub Stats](https://vercel.app)
+* ![Top Langs](https://vercel.app)
 
 ---
 
