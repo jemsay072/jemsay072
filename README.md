@@ -22,39 +22,27 @@ I am a web developer heavily focused on creating beautiful, responsive, and high
 ### 🛠️ Tech Stack & Tools
 
 #### 💻 Frontend Development
-- [![JavaScript](https://shields.io)](https://mozilla.org)
-- [![React](https://shields.io)](https://react.dev)
-- [![Tailwind CSS](https://shields.io)](https://tailwindcss.com)
-- [![Sass](https://shields.io)](https://sass-lang.com)
+🔹 **JavaScript** (ES6+) <br>
+🔹 **React JS** <br>
+🔹 **Tailwind CSS** <br>
+🔹 **Sass / SCSS** <br>
 
 #### ⏳ Learning & Upgrading (Next-Gen Stack)
-- [![Next.js](https://shields.io)](https://nextjs.org)
-- [![TypeScript](https://shields.io)](https://typescriptlang.org)
+🟢 **Next.js** <br>
+🟢 **TypeScript** <br>
 
 #### ⚙️ Backend & Database (Full-Stack Foundation)
-- [![PHP](https://shields.io)](https://php.net)
-- [![Laravel](https://shields.io)](https://laravel.com)
-- [![MySQL](https://shields.io)](https://mysql.com)
+🔸 **PHP** <br>
+🔸 **Laravel Framework** <br>
+🔸 **MySQL Database** <br>
 
 #### 🎨 Design & UI/UX
-- [![Figma](https://shields.io)](https://figma.com)
-- [![Adobe Illustrator](https://shields.io)](https://adobe.com)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="Jemson's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://vercel.app" alt="Top Langs" />
-</p>
+🎨 **Figma** <br>
+🎨 **Adobe Illustrator** <br>
 
 ---
 
 ### 🤝 Connect with Me
 
-📫 **Email:** [jemson_s@yahoo.com](mailto:jemson_s@yahoo.com) OR [jemsonsayre@gmail.com](mailto:jemsonsayre@gmail.com) <br>
+📫 **Email:** jemson_s@yahoo.com OR jemsonsayre@gmail.com <br>
 💼 **LinkedIn:** [jemsonsayre](https://linkedin.com)
