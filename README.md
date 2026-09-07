@@ -22,10 +22,10 @@ I am a web developer heavily focused on creating beautiful, responsive, and high
 ### 🛠️ Tech Stack & Tools
 
 #### 💻 Frontend Development
-![JavaScript](https://shields.io)
-![React](https://shields.io)
-![Tailwind CSS](https://shields.io)
-![Sass](https://shields.io)
+* ![JavaScript](https://shields.io)
+* ![React](https://shields.io)
+* ![Tailwind CSS](https://shields.io)
+* ![Sass](https://shields.io)
 
 #### ⏳ Learning & Upgrading (Next-Gen Stack)
 ![Next.js](https://shields.io)
