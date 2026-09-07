@@ -22,7 +22,7 @@ I am a web developer heavily focused on creating beautiful, responsive, and high
 ### 🛠️ Tech Stack & Tools
 
 #### 💻 Frontend Development
-* ![JavaScript](https://shields.io)
+* ![JavaScript](https://shields.io)<img src="https://shields.io" alt="JavaScript" />
 * ![React](https://shields.io)
 * ![Tailwind CSS](https://shields.io)
 * ![Sass](https://shields.io)
@@ -49,5 +49,5 @@ I am a web developer heavily focused on creating beautiful, responsive, and high
 ---
 
 ### 🤝 Connect with Me
-📧 **Email:** [jemson_s@yahoo.com](mailto:jemson_s@yahoo.com)  OR [jemsonsayre@gmail.com](mailto:jemsonsayre@gmail.com)
+📧 **Email:** [jemson_s@yahoo.com](mailto:jemson_s@yahoo.com)  OR [jemsonsayre@gmail.com](mailto:jemsonsayre@gmail.com) <br />
 💼 **LinkedIn:** [jemsonsayre]([https://linkedin.com](https://www.linkedin.com/in/jemsay07/)) 
