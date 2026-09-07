@@ -22,7 +22,7 @@ I am a web developer heavily focused on creating beautiful, responsive, and high
 ### 🛠️ Tech Stack & Tools
 
 #### 💻 Frontend Development
-* ![JavaScript](https://shields.io)<img src="https://shields.io" alt="JavaScript" />
+* [![JavaScript](https://shields.io)](https://mozilla.org)
 * ![React](https://shields.io)
 * ![Tailwind CSS](https://shields.io)
 * ![Sass](https://shields.io)
