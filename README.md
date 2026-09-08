@@ -11,7 +11,7 @@ I am a web developer heavily focused on creating beautiful, responsive, and high
 - ⚙️ Back-End Focus: Building APIs and managing databases using **Laravel** & **MySQL**.
 - 🌱 Growth Mindset: **Eager to learn new things** and continuously evolving with the modern web.
 - ⚡ Fun fact: Fueled by passion, clean code, and **More Green Tea Please! 🍵**
-- 🌐 Portfolio: *[Coming soon on Vercel]*
+- 🌐 Portfolio: [jemson-sayre](https://jemson-sayre.vercel.app/)
 
 ---
 
