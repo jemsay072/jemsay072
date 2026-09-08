@@ -41,4 +41,4 @@ I am a web developer heavily focused on creating beautiful, responsive, and high
 ### 🤝 Connect with Me
 
 📫 **Email:** jemson_s@yahoo.com OR jemsonsayre@gmail.com <br>
-💼 **LinkedIn:** [jemsonsayre](https://linkedin.com)
+💼 **LinkedIn:** [jemsonsayre](https://linkedin.com/in/jemsay07)
